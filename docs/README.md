@@ -46,7 +46,7 @@
 
 ## История изменения проекта
 История коммитов репозитория (последняя запись исключена согласно заданию):
-
+* **2260623** Add unit tests for rectangle, square, triangle and circle
 * **4976c36** Update docs/README.md with new functions and commit history
 * **6007de5** Add docstrings to rectangle and triangle functions
 * **4871284** Fix perimeter formula in file rectangle.py
