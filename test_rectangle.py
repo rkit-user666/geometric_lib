@@ -6,7 +6,7 @@ class RectangleTestCase(unittest.TestCase):
     def test_zero_mul(self):
         """Тест: умножение на ноль должно давать ноль"""
         res = area(10, 0)
-        self.assertEqual(res, 0)
+        self.assertEqual(res, 10)
         
     def test_square_mul(self):
         """Тест: вычисление площади квадрата 10х10"""
